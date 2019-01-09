@@ -1,0 +1,1 @@
+This folder contains all the results of experimental evaluation described in the paper "Semantically Interpretable Latent Factor Models for Top-N Recommendation" for the recommender "Knowledge-aware Hybrid Factorization Machines".

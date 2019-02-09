@@ -17,9 +17,6 @@ This work is currently under review
 ~~~
 The full paper describing the overall approach WILL BE available here [PDF](link)
 
-## Experiments
-
-
 ## Credits
 These algorithms have been developed by Vito Walter Anelli and Joseph Trotta while working at [SisInf Lab](http://sisinflab.poliba.it) under the supervision of Tommaso Di Noia.  
 
